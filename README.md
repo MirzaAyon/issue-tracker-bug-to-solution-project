@@ -1,8 +1,7 @@
-# Issue tracker with error
-
-* Live link - https://poetic-crisp-69c054.netlify.app/
+# issue tracker bug to solution
 
 * after submitting the issues, the errors were issues have not been deleted or closed after clicking relatable buttons
+* local storage has been used here
 
-* Solution live link : https://poetic-crisp-69c054.netlify.app/#
+
 
